@@ -7,7 +7,7 @@ const Layout = ({children}) => {
   return (
     <div className='layout'>
       <Head>
-        <title>JSM</title>
+        <title>KARMA | SHOP RITUALITIC AND SPIRITUAL GOODS</title>
       </Head>
       <header>
         <Navbar/>
